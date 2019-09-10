@@ -17,5 +17,14 @@ Have a look at one of my favorite [xkcd](https://xkcd.com) comics:
 
 ![](https://imgs.xkcd.com/comics/machine_learning.png)
 
+# Show me a piece of code.
+```python
+def fib(n):
+    if n < 2:
+        return 1
+    else:
+        return fib(n-1) + fib(n-2)
+```
+
 # Is there anything more to say?
 No.
