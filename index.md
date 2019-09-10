@@ -15,7 +15,7 @@ I __certainly__ do. Not only can I put text in __boldface__ I can also _italiciz
 # What else?
 Have a look at one of my favorite [xkcd](https://xkcd.com) comics:
 
-<img src=https://imgs.xkcd.com/comics/machine_learning_2x.png height="500">
+![](https://imgs.xkcd.com/comics/machine_learning.png)
 
 # Is there anything more to say?
 No.
